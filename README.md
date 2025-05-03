@@ -1,4 +1,4 @@
-VODEPO LINK == https://drive.google.com/drive/folders/1UO_yw3V7tROkGWrTiZYT5MqDF66nWIny?usp=drive_link
+VIDEO LINK in "Demo video Link File"
 
 
 # 🔧 OpenStack Cloud Resource Automation
