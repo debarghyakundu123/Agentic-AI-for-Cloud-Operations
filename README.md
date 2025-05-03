@@ -1,3 +1,6 @@
+VODEPO LINK == https://drive.google.com/drive/folders/1UO_yw3V7tROkGWrTiZYT5MqDF66nWIny?usp=drive_link
+
+
 # 🔧 OpenStack Cloud Resource Automation
 
 A simple, script-based automation tool that connects to an OpenStack cloud and allows users to:
